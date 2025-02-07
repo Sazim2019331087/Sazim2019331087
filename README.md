@@ -26,7 +26,7 @@
 
 ###
 
-<h4 align="left">I am a <b><i>Computer Science & Engineering</i></b> student at <b><i>Shahjalal University of Science & Technology</i></b> with a passion for <b>technology</b>, <b>software development</b>, and <b>entrepreneurship</b>. My goal is to build innovative tech solutions that create real-world impact, particularly in desktop, web, android and AI applications.</h4>
+<div align="left">I am a <b><i>Computer Science & Engineering</i></b> student at <b><i>Shahjalal University of Science & Technology</i></b> with a passion for <b>technology</b>, <b>software development</b>, and <b>entrepreneurship</b>. My goal is to build innovative tech solutions that create real-world impact, particularly in desktop, web, android and AI applications.</h4>
 
 ###
 
